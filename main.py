@@ -27,7 +27,6 @@ banner = '''
 ====================================================================================
 '''
 
-
 # Developer's Name Section
 developer_name = Fore.CYAN + Style.BRIGHT + "Developer: Ankit Kumar\n"
 
